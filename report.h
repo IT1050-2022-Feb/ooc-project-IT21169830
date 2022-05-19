@@ -9,5 +9,5 @@ class Report
 		Report();
 		Report(int rpid ,int PropertyID , char PropertyType);
 		void displayReport();
-    ~Report();
+                ~Report();
 };
